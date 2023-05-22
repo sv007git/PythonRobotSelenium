@@ -1,0 +1,8 @@
+robotframework-databaselibrary==1.2.4
+requests==2.28.1
+robotframework==6.0.1
+robotframework-jsonlibrary==0.5
+robotframework-pythonlibcore==4.0.0
+robotframework-requests==0.9.4
+selenium==4.7.2
+allure-robotframework==2.13.2
