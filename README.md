@@ -19,6 +19,6 @@ Go to requirements.txt & install all requirements
 
 After Build successful
 
-Run test using CMD:-
+Run test using CMD:- robot --pythonpath . -d reports TestCases\UI\UI_TC001.robot
 
 Check Results
