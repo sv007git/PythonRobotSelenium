@@ -1,0 +1,8 @@
+Step 1: Download pabot plugin
+pip install -U robotframework-pabot
+
+Step 2: Install pabot Package
+pip install robotframework-pabot
+
+Step 3 – Split execution on test level
+pabot --testlevelsplit --pythonpath . -d reports TestCases/API_Test.robot
