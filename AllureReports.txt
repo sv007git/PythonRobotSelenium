@@ -11,3 +11,6 @@ robot --listener allure_robotframework --outputdir ./output/robot ./TestCases/AP
 
 Step 3: Generate Allure Html report (Replace path with Step 1 extracted path)
 D:\Tools\allure-2.24.0\bin\allure.bat serve ./output/allure
+
+
+Make sure Java version 8 or above installed, and its directory is specified in the JAVA_HOME environment variable.
