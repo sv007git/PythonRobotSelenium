@@ -6,3 +6,6 @@ pip install robotframework-pabot
 
 Step 3 – Split execution on test level
 pabot --testlevelsplit --pythonpath . -d reports TestCases/API_Test.robot
+
+Step 3 – Split execution to suite files
+pabot --pythonpath . -d reports .
