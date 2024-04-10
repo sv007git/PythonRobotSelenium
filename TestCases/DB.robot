@@ -9,6 +9,13 @@ ${DBPassword}  password
 ${DBHost}  db4free.net
 ${DBPort}  3306
 
+*** Keywords ***
+Connect DB
+    Connect To Database  pymysql  ${DBName}  ${DBUser}  ${DBPassword}  ${DBHost}  ${DBPort}
+
+Disconnect DB
+    Disconnect From Database
+
 *** Test Cases ***
 Verify Successful creation of Table
     [documentation]  This test case verifies that user is able to create a table successfully
@@ -44,9 +51,3 @@ Verify that you can Delete a Table
     Should Be Equal As Strings  ${output}  None
     Disconnect DB
 
-*** Keywords ***
-Connect DB
-    Connect To Database  pymysql  ${DBName}  ${DBUser}  ${DBPassword}  ${DBHost}  ${DBPort}
-
-Disconnect DB
-    Disconnect From Database
