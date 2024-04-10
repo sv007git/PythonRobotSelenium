@@ -8,7 +8,7 @@ Configure Python interpreter setting in Pycharm ide
 
 Import this project
 
-Install Intellibot plug-in & requirements plug-in in Pycharm ide 
+Install Intellibot plug-in & requirements plug-in in Pycharm ide or Download and install https://plugins.jetbrains.com/plugin/7386-intellibot/versions/stable
 
 Add Chrome driver exe based on your browser version to the project 
 
