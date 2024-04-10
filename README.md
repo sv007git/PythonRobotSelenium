@@ -1,10 +1,12 @@
 # PythonRobotSelenium
 
 Download Python exe file & install
+
 https://www.python.org/downloads/release/python-3123/
 https://www.python.org/ftp/python/3.12.3/python-3.12.3-amd64.exe
 
 Download Pycharm Ide Community edition & install
+
 https://www.jetbrains.com/pycharm/download/?section=windows
 
 Configure Python interpreter setting in Pycharm ide
