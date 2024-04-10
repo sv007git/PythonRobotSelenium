@@ -14,7 +14,7 @@ Step 3: Configure Python interpreter setting in Pycharm ide
 
 Step 4: Import this project
 
-Step 5: Install Intellibot plug-in & requirements plug-in in Pycharm ide or 
+Step 5: Install Intellibot plug-in in Pycharm ide or 
 Download and install 
 
 https://plugins.jetbrains.com/plugin/7386-intellibot/versions/stable
