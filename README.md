@@ -19,6 +19,8 @@ Download and install
 
 https://plugins.jetbrains.com/plugin/7386-intellibot/versions/stable
 
+https://www.jetbrains.com/help/pycharm/managing-plugins.html#install_plugin_from_disk
+
 Step 6: Add Chrome driver exe based on your browser version to the project 
 
 https://googlechromelabs.github.io/chrome-for-testing/#stable
