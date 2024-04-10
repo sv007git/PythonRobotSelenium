@@ -31,6 +31,6 @@ https://accessibilityinsights.io/downloads/
 
 After Build successful
 
-Run test using CMD:- robot --pythonpath . -d reports TestCases\UI_Test.robot
+Run test using Command:- robot --pythonpath . -d reports TestCases\UI_Test.robot
 
 Check Results
